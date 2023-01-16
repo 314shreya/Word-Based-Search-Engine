@@ -1,0 +1,273 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(222,125,203,1) 35%, rgba(0,212,255,1) 100%);
+
+	box-sizing: border-box;
+	font-family:
+		/*Roboto,*/
+		"Open Sans", sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+header h1 {
+	text-align: center;
+	padding: 0 0 0.3em 0;
+}
+
+body h4 {
+	text-align: center;
+	padding: 0 0 0.3em 0;
+}
+
+.center-form {
+	margin: auto;
+}
+
+.center-form form {
+	display: inline-block;
+}
+
+.fa-search {
+	font-size: 1.5em;
+}
+
+input#search {
+	border-top: none;
+	border-bottom: 1px solid #ccc;
+	border-left: none;
+	border-right: none;
+	width: 20em;
+	height: 2em;
+	padding-left: 0.5em;
+	margin-left: 0.3em;
+	background: none;
+	transition: all ease-in-out 0.2s;
+	font-size: 1.05em;
+}
+
+input#search:focus {
+	outline: none;
+	border-bottom: 3px solid rgba(84, 191, 255, 0.8);
+}
+
+button {
+	border: none;
+	border-radius: 4px;
+	background-color: #54bfff;
+	width: 8em;
+	height: 2em;
+	color: #636363;
+	font-weight: 600;
+	margin: 0.5em;
+	cursor: pointer;
+	box-shadow: inset 0 -1px #bbbfc2;
+}
+
+.button:hover {
+	box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+}
+
+#searcharea {
+	display: flex;
+	flex-direction: row;
+	align-content: space-between;
+	align-items: center;
+	margin: auto;
+}
+
+#checkboxes {
+	display: flex;
+	flex-direction: row;
+	padding: 0 1em 2em 1em;
+	justify-content: space-between;
+}
+
+.checkbox {
+	display: inline-block;
+}
+
+/*
+input[type="checkbox"] {
+    cursor: pointer;
+}
+*/
+
+.info-alert {
+	display: flex;
+	flex-direction: column;
+	align-content: space-between;
+	align-items: center;
+	margin: 0.3em auto;
+	background-color: #92f1a5;
+	border: 2px solid #75bd84;
+	border-radius: 4px;
+	max-width: 45em;
+}
+
+p.info-alert-text {
+	margin: 0;
+	padding: 0.5em;
+}
+
+#searchUpdate {
+	min-height: 50vh;
+}
+
+.list-group {
+	margin: 10em 10em 3em;
+	transition: box-shadow ease-in-out 0.3s;
+}
+
+div.list-group:hover {
+	transition: box-shadow ease-in-out 0.3s;
+	box-shadow: 0 10px 27px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+}
+
+.list-group-item {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	margin-bottom: -1px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+}
+
+.list-group-item:first-child {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+.list-group-item:last-child {
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+.list-group-item:focus, .list-group-item:hover {
+	color: #555;
+	text-decoration: none;
+	background-color: #f5f5f5;
+}
+
+h4.list-group-item-heading {
+	font-weight: 600;
+	font-size: 1.05em;
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+
+.small {
+	font-size: 0.8em;
+}
+
+.list-group-item p.small {
+	font-size: 0.8em;
+	margin-left: 0.5em;
+	padding: 0 0.5em;
+	border-left: 3px solid #ccc;
+}
+
+p.list-group-item {
+	font-size: 0.8em;
+	margin-left: 0.5em;
+	padding: 0 0.5em;
+	border-left: 3px solid #ccc;
+	word-wrap: break-word;
+}
+
+footer {
+	max-width: 100vw;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+}
+
+.row {
+	width: 60%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 1em;
+	align-items: flex-start;
+	margin: auto;
+}
+
+.row-item {
+	display: flex;
+	width: calc(33% - 0.5em);
+	padding: 0.5em 2em;
+}
+
+.row-item img {
+	max-width: 50%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+.row-item p {
+	font-size: 0.8em;
+}
+
+.row-item.one {
+	justify-content: flex-end;
+}
+
+.row-item.one p {
+	text-align: end;
+	text-align: right;
+	-webkit-text-align: right;
+}
+
+.row-item.two {
+	justify-content: center;
+	border-right: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+
+.row-item.three {
+	justify-content: flex-start;
+}
+
+/* Something Fun */
+#countMe:hover {
+	animation-name: wiggle;
+	-webkit-animation-name: wiggle;
+	-ms-animation-name: wiggle;
+	-ms-animation-duration: 1000ms;
+	-webkit-animation-duration: 1000ms;
+	-webkit-animation-iteration-count: 1;
+	-ms-animation-iteration-count: 1;
+	-webkit-animation-timing-function: ease-in-out;
+	-ms-animation-timing-function: ease-in-out;
+}
+
+@keyframes wiggle {
+	0% {
+		transform: rotate(10deg);
+	}
+
+	25% {
+		transform: rotate(-10deg);
+	}
+
+	50% {
+		transform: rotate(20deg);
+	}
+
+	75% {
+		transform: rotate(-5deg);
+	}
+
+	100% {
+		transform: rotate(0deg);
+	}
+}

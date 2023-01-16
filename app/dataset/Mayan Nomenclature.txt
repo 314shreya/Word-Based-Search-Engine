@@ -1,0 +1,776 @@
+The Project Gutenberg eBook of Mayan Nomenclature, by Charles P.
+Bowditch
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Mayan Nomenclature
+
+Author: Charles P. Bowditch
+
+Release Date: April 19, 2022 [eBook #67879]
+
+Language: English
+
+Produced by: The Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK MAYAN NOMENCLATURE ***
+
+
+
+
+
+  MAYAN NOMENCLATURE
+
+
+  BY
+  CHARLES P. BOWDITCH
+
+
+  _Privately Printed_
+
+
+  CAMBRIDGE
+  THE UNIVERSITY PRESS
+  1906
+
+
+It has long been well known that the Mexican numeration is vigesimal,
+and, as far as I know, there is no proof that it was ever used in the
+calculation of long reaches of time. The Cakchiquel numeration is also
+vigesimal, and Brinton states (Maya Chronicles, p. 44) that the Maya
+numeration is also vigesimal, giving
+
+  20 units = one kal   = 20
+  20 kal   = one bak   = 400
+  20 bak   = one pic   = 8000
+  20 pic   = one calab = 160000, etc.
+
+But this Maya system is never used in connection with days. Wherever a
+long number of days is referred to, we find invariably the following
+system in use:
+
+  20 units              = one of the second term
+  18 of the second term = one of the third term
+  20 of the third term  = one of the fourth term
+  20 of the fourth term = one of the fifth term.
+
+And this system is, as far as we know, used for nothing else but for
+reckoning days. The only difference between the first system and the
+second is that in the first system twenty of the second term equal one
+of the third, while in the second system eighteen of the second equal
+one of the third. This difference is, of course, essential, and it
+seems most probable that the change was introduced in order to bring
+the third term as near the length of the year as possible, and to
+conform the day numeration to the number of days and months in the year.
+
+Professor Cyrus Thomas is unwilling to see in this anything more than
+the counters by which to count the days, and denies to it the name of
+a calendar; but as the system of day numeration is different from
+the usual system, and is used only for counting days, and as this
+system counts forward in almost every case in the inscriptions, and in
+a majority of cases in the Dresden Codex, from a fixed date, 4 Ahau
+8 Cumhu, it seems impossible to see any difference between it and a
+calendar system.
+
+It was certainly to be hoped that the designations which Dr. Seler
+gave to these Maya periods of time in his “Die Monumente von Copan,
+etc.,”[1] would have been accepted by Americanists, especially since
+very good reasons were given by Seler for their adoption. But this
+view does not meet the approval of Dr. Förstemann or Dr. Thomas. The
+latter in his “Maya Calendar, Part II.,” published in the “Report of
+the Bureau of American Ethnology,” still calls the period of 20 days
+a chuen and that of 360 days an ahau, while the former in his article
+on “Die Lage der Ahaus bei den Mayas,” published in Part I. of the
+1904 issue of the “Zeitschrift für Ethnologie,” makes the following
+statement: “The katun has also been supposed to be 24 × 365 = 8760 days
+long (and I held this view for a long time), indeed the long period
+of 52 × 365 = 18,980 days is also occasionally designated with the
+word, while the sixth multiple of this member or 113,800 is called
+an ahaukatun.” He uses the terms “day,” “uinal,” and “ahau” for the
+periods of 1, 20, and 7200 days respectively.
+
+[1] See Seler, “Gesammelte Abhandlungen zur Amerikanischen Sprach- und
+Alterthumskunde,” Vol. I. p. 722.
+
+Such statements from such learned scholars must attract attention,
+especially as it is not the first time that they have made similar
+statements. If they give a correct statement of facts, it shows that
+the system of the Maya numeration or calendar was in a woful condition,
+as far as its nomenclature was concerned. It will be well, therefore,
+to take up this question of nomenclature anew. In all matters of this
+kind it is wise, while giving due value to the views of later writers,
+to place the most dependence for the solution of such questions upon
+contemporary or nearly contemporary evidence.
+
+And where is such evidence to be found? Though there are several
+Spanish writers who lived in the sixteenth century who have written
+on the Nahuas, Bishop Landa is the earliest Spanish authority who has
+dealt with Maya customs and history. And the only Maya authorities of
+an early date that the student has access to are the papers contained
+in Brinton’s Maya Chronicles, the principal of which are the Books
+of Chilan Balam, which Dr. Brinton declares “to constitute about all
+that remains to us ... of the ancient history of the peninsula” as
+far as he knows. Yet, in making objection to certain views of Dr.
+Seler, Dr. Förstemann says, “It is based on certain statements in the
+Books of Chilan Balam, a very dubious source according to Seler’s own
+assertion.” I am at a loss to know why such sweeping condemnation
+should be made of these books, for though the copies from which Dr.
+Brinton quotes may not be very old, these copies hand down to us
+records which must be of very great age. Dr. Förstemann himself quotes
+from them with approval, and it is certain that whatever may be their
+historical value, the evidence which they give incidentally cannot fail
+to be of great value. This evidence will, I think, prove--
+
+First, that the period of 20 times 360 days was called a katun and not
+an ahau.
+
+Second, that each of the constituent parts of a katun was called a tun.
+
+Third, that no such period of time as an ahaukatun is mentioned in the
+Books of Chilan Balam.
+
+The first assertion may seem difficult to prove when in far the larger
+number of cases where a separate katun is mentioned in the Books of
+Chilan Balam the word “ahau” seems to be substituted for “katun.”
+This is true in all five of the Books of Chilan Balam published by
+Brinton. But the reason of this is very evident, for it will be seen by
+a careful perusal that the word “ahaus” is never used when katuns in
+general are spoken of, and that whenever the word “ahau” is apparently
+given as a synonym of “katun,” it is merely the name of a particular
+katun and it always has a number attached to it and this number is the
+number of the day ahau with which a given katun ended. Further, this
+number is never an ordinal number, as translated by Brinton, but a
+cardinal number. Therefore 1, 2, 3, 4, 5, 6, etc. should be substituted
+in Brinton’s translation for 1st, 2d, 3d, 4th, 5th, 6th, etc., and in
+the quotations from Brinton this substitution is made.
+
+It may be here stated that the inscriptions all show that where an
+even uinal is given (and therefore where an even tun, katun, or cycle
+is given) the day is Ahau. If then it was desirable to distinguish the
+katuns from each other, two methods could be used: either count them
+numerically, 1, 2, 3, 4, etc., or name them from the day Ahau with
+which the preceding katun had ended. The former method is found in the
+inscriptions and the Dresden Codex, the latter in the Books of Chilan
+Balam. The second method would not be possible if each katun ended
+with the same numbered ahau. But 7200 is not divisible by 13 without a
+remainder, but equals 13 × 553 + 11. If then a particular katun ended
+with 13 Ahau, the next would end with Ahau, but the number attached
+to Ahau would be 13 + 11, or, deducting thirteens, 11. The next katun
+would end with 9, the next with 7, and so on. The katuns then would be
+known as katuns, 13 Ahau, 11 Ahau, 9 Ahau, 7 Ahau, 5 Ahau, 3 Ahau, 1
+Ahau, 12 Ahau, 10 Ahau, 8 Ahau, 6 Ahau, 4 Ahau, 2 Ahau, 13 Ahau, etc.
+
+Taking up, therefore, No. I. of the Books of Chilan Balam, published by
+Brinton--that of Mani--we find in the paragraph numbered 1 by Brinton
+“This is the arrangement of the katuns” not “of the ahaus,” and in
+paragraph numbered 2 “Four katuns had passed, etc.” not “four ahaus.”
+This is followed by the statement “When they set out for this country,
+it was Ahau 8,” not “the 8th Ahau.” And then follows “6 Ahau, 4 Ahau,
+2 Ahau, fourscore years and one year, for it was Tun 1, 13 Ahau when,
+etc.” That 6 Ahau, 4 Ahau, 2 Ahau refer to the katuns is very clear,
+and that 4 katuns with the names 8 Ahau, 6 Ahau, 4 Ahau, and 2 Ahau
+are called fourscore years is equally clear. In paragraph 4 we have “4
+Ahau, 2 Ahau, 13 Ahau--threescore years they ruled Ziyan caan, etc.”
+Here three katuns are called threescore years.
+
+This would seem to show that the katuns called 4 Ahau, 2 Ahau, 13 Ahau,
+were each equal to a score of years of 365 days each. When, however,
+we try to account for the numbering of the katuns on this basis, we
+find that the numbers of the ahaus ending each katun would come in the
+following order: 11. 5. 12. 6. 13. 7. 1. 8. 2. 9. 3. 10. 4. 11, etc.,
+while the real order is given in the books as 11. 9. 7. 5. 3. 1. 12.
+10. 8. 6. 4. 2. 13, etc. If the word “haab” or the Spanish “años,”[2]
+which occurs in paragraph 3, is taken literally, there would seem to be
+no explanation of this difficulty; but if we consider that these books
+used these words as we often use them now as meaning approximately
+“years,” and if we substitute the third term of the numeral series
+as found in the codices for the word “years”--in other words, if we
+substitute 360 for 365--we find then that the katuns or scores of 360
+days will end with a day Ahau with the numbers 11. 9. 7. 5. 3. 1. 12.
+10, etc., as has been said and as given in the Books of Chilan Balam.
+This has been shown by Seler, Goodman, and others.
+
+[2] It is very probable that “años” is merely a gloss--and an erroneous
+one at that.
+
+It will then be a good working theory that the score of 360 days is
+called a katun, and that each katun is distinguished by the name of
+an ahau with its proper number, with which a katun ended. That the
+ahau and its number are merely the name of the katun and not the katun
+itself is shown in No. 5 of Brinton’s Books of Chilan Balam,--the
+Book of Chumayel. Here in paragraph 1 we have “4 Ahau was the name of
+the katun,” in paragraph 3 “4 Ahau was the name of the katun,” and in
+paragraph 7 “11 Ahau was the name of the katun.” To say that “ahau”
+was a synonym for “katun” would be as foolish as to say of a family
+containing John Smith, Mary Smith, and James Smith, that John and Mary
+and James were all synonyms of Smith, when they were merely names to
+distinguish one Smith from another.
+
+This is also shown in the Book of Mani (pp. 96 et seq. of Brinton’s
+“Maya Chronicles”), where
+
+  Par. 8 says “Lai u katunil cabil ahau,” “In the katun 2 Ahau.”
+   ”   9 says “Lai u katunil buluc ahau,” “In the katun 11 Ahau.”
+   ”  10 says “Laili u katunil uaxac ahau,” “In the katun 8 Ahau.”
+   ”  12 says “lay u katunil uac ahau,” “In the katun 6 Ahau.”
+   ”  15 says “u katunil ho ahau,” “In the katun 5 Ahau.”
+
+Also in the Book of Tizimin (pp. 139 et seq. of Brinton):
+
+  Par. 6, “Uaxac ahau--lay u katunil,” “8 Ahau--in this katun.”
+   ”   14, “Bolon ahau--lai--u katunil,” “9 Ahau--in this katun.”
+   ”   15, “Vuc ahau--u katunil,” “7 Ahau--in this katun.”
+
+Also in the first Book of Chumayel (pp. 154 et seq. of Brinton):
+
+  Par. 2, “Uaxac ahau--layli u katunil,” “8 Ahau--in this katun.”
+   ”   8, “Bolon ahau--u katunil,” “9 Ahau--in this katun.”
+
+Also in the second Book of Chumayel (pp. 166 et seq. of Brinton):
+
+  Par. 3, “Uaxac ahau u katunil,” “8 Ahau in this katun.”
+            “laix u katunil,” “in this katun.”
+   ”   5, “Hun ahau--lay u katunil,” “1 Ahau--in this katun.”
+   ”   8, “Buluc ahau--laix u katunil,” “11 Ahau--in this katun.”
+          “Buluc ahau. Laix u katunil,” “11 Ahau in this katun.”
+   ”   9, “Bolon ahau--lay katun,” “9 Ahau--in this katun.”
+          “Uac Ahau--lay u katunil,” “6 Ahau--in this katun.”
+
+I can find no excuse for considering “ahau” as a synonym for “katun” in
+these Books of Chilan Balam. And _a priori_ it is difficult to conceive
+of a numeral system being made up by a nation as cultivated as the
+Mayas, by which the name of a day should be taken to mean a period of
+time, with all the chances of error which might arise from such use.
+Moreover, if this were the case, it would be natural to suppose that in
+the inscriptions and codices the day sign ahau might be found meaning
+7200 days, and yet I am unaware that a single instance of this exists
+on the monuments or in the codices. There are one or two cases in the
+inscriptions where this has been suggested as being possible, but it is
+very far from being proved or from even having strong evidence in favor
+of such an explanation.
+
+Dr. Förstemann says that at times the name “katun” was given to the
+period of 18,980 days; but the only authority for this use is, as
+far as I know, Pio Perez, who says that some applied the name to a
+“lustre of 4 years,” while others thought that “13 years completed the
+katun.”[3] Again Pio Perez speaks of “the cycle of 52 years called by
+the Indians katun.” In none of these cases is any authority given for
+this use.[4]
+
+[3] Stephens, “Travels in Yucatan,” Appendix, p. 439.
+
+[4] Ibid., p. 440.
+
+It is probably safe to say that any use of the word “ahau” as meaning a
+katun, or any use of the word “katun” as meaning anything but 20 times
+360 days, or any use of the day symbol ahau as meaning a period of
+time, does not occur in any evidence which could be called contemporary
+or even approximately so. Don Pio Perez is, I fear, the only author
+who can be cited for the other side, and his opinion, though worthy of
+being listened to, is not to be relied upon without the support of, or
+against the evidence of, early authorities.
+
+The second question as to the name to be given to the period of 360
+days must be decided by the same authority.
+
+We have found that a katun is probably a score of periods of 360 days
+each, and it would be natural to suppose that the constituent parts of
+the katun, as mentioned in the Books of Chilan Balam, would be these
+periods of 360 days, but of this there is no absolute proof in the
+Books of Chilan Balam. The proof of this, however, is so strong in the
+Dresden Codex, where the series runs, 20 of the first order equals 1 of
+the second order, 18 of the second order equals 1 of the third order,
+and 20 of the third order equals 1 of the fourth, that no time need be
+wasted upon this part of the question. We do know, however, that each
+of these constituent parts is called a tun and that they are numbered
+as high as 13.
+
+The following list gives, I think, all the cases where the word “tun”
+is used in the Books of Chilan Balam:
+
+Book of Mani, paragraph 2, “Hun piztun oxlahun ahau,” which Brinton
+translates “the first year of the thirteenth ahau.” I think the proper
+translation to be “Tun 1 of Ahau 13,” meaning that 1 tun had passed of
+Katun 13 Ahau.
+
+Paragraph 9, “tu lahun tun uaxac ahau” is translated by Brinton, “and
+it was the tenth year of the eighth ahau,” while it should be “in Tun
+10 of Katun 8 Ahau.”
+
+In the Book of Tizimin we find that in
+
+Paragraph 1, “tu humpiztun ahoxlahunahau” is translated “to the first
+year of the thirteenth ahau,” while it should be “to (or in) Tun 1 of
+Katun 13 Ahau.”
+
+Paragraph 11, “Cabil ahau; oxlahun tun” is translated “The second ahau;
+on the thirteenth, etc.” It should be “on Katun 2 Ahau Tun 13, etc.”
+
+Also in the second Book of Chumayel, we find in
+
+Paragraph 2, “tu yoxpiztun ychil hun ahau,” which is translated “on the
+third year in the first ahau,” when it should be “in Tun 3 of Katun 1
+Ahau.”
+
+Paragraph 3, “Tu uucpiztun uaxac ahau u katunil” is translated “in the
+seventh year of the eight Ahau katun,” when it should be “in Tun 7 of
+Katun 8 Ahau.”
+
+Paragraph 8, “tu hunpiztun Buluc ahau. Laix u katunil” is translated
+“in the first year of the eleventh ahau, it was also in this katun,”
+when it should be “on Tun 1 of Katun 11 Ahau. In this Katun, etc.” Also
+“tu uucpiztun Buluc ahau u katunil” is translated “in the seventh year
+of the eleventh ahau katun,” when it should be “in Tun 7 of Katun 11
+Ahau.”
+
+These two katuns are evidently the same--one date being in Tun 1 and
+the other in Tun 7 of the same katun--and yet Brinton translated the
+first as being in the 11th katun and the other as being in the 11th
+ahau katun.
+
+Paragraph 9, “tu uacpiztun ychil ahBolon ahau katun lae.” is translated
+“in the sixth year of the ninth ahau katun.” It should be “in Tun 6 of
+Katun 9 Ahau.”
+
+Although Brinton has almost always translated “tun” by “year,” it is
+very evident from the above that the Mayas called the native division
+of the katun “tun.”
+
+It may further be noted that the word “kin” is used for day in the way
+of numeration in the Book of Mani, paragraph 13, “9 Imix was the day
+on which Ahpula died” and in paragraph 13 of the Book of Tizimin and
+paragraph 7 of the first Book of Chumayel, the same statement is made.
+
+May it not then be fairly assumed that the Mayas called the day or the
+unit of their calendrical numeration “kin,” their 360-day period “tun,”
+and the period of 20 tuns “katun,” as Dr. Seler has suggested?
+
+The third question is as to the so-called period of “ahau katun.” I
+give below all the cases in which Brinton has used the word, and in all
+but one of them the Maya has “ahau u katunil”; and in one case Brinton
+has translated a sentence as “it was the eleventh ahau katun,” while
+exactly similar phrases (with the exception of the number) have been
+translated by him as “4 Ahau was the name of the katun.” In the phrase
+in paragraph 9 of the second Book of Chumayel, where “ah Bolon ahau
+katun” appears, the whole context makes it evident that a katun and not
+an ahau katun, if there was such a period, is meant. The paragraph says
+“9 Ahau; no stone was taken at this time; in this katun came the Bishop
+Brother Francisco Toral; he arrived in Tun 6 of Katun 9 Ahau”; and yet
+Brinton makes it read in the first clause that while Bishop Toral came
+in a katun called 9 Ahau, he “arrived in Tun 6” of the “ninth Ahau
+katun.”
+
+Dr. Tozzer, whose knowledge of the Maya languages, gained in long
+residence among the Maya Indians of Yucatan and Chiapas, enables him
+to speak with authority, writes me as follows: “The form u katunil
+of ahau ukatunil, for example,” in paragraph 3 of the second Book
+of Chumayel, p. 167, “is probably possessive, and it would then be
+literally ‘the Ahau 8, its Katun’ (the Ahau’s Katun) which might
+strengthen the point against joining the two together as Ahaukatun.”
+
+In the second Book of Chumayel, p. 167, paragraph 3, “uucpiztun uaxac
+ahau u katunil; laix u katunil, etc.” Brinton translates “in the 7th
+year of the 8th Ahau katun, in this katun, etc.” There is no authority
+for translating ahau u katunil “ahau katun.” It should be “In Tun 7 of
+Katun 8 Ahau, in this katun, etc.,” or, as suggested by Dr. Tozzer, “In
+Tun 7 of Ahau eight’s Katun.”
+
+Again, in paragraph 5, the translation of “Hun ahau--tu hunpiztun ychil
+hun ahau u katunile” is given, “The first ahau--in the first year of
+the first ahau katun.” It should be “1 Ahau--in Tun 1 of the Katun 1
+Ahau, &c.”
+
+Again, in paragraph 8 “tu uucpiztun Buluc Ahau u katunil” is translated
+“in the seventh year of the eleventh ahau katun,” when it should be “in
+Tun 7 of Katun 11 Ahau.” Just above “Tun 1 of 11 Ahau” is given and
+followed by “in this katun.”
+
+Again in paragraph 9 we read “Bolon Ahau--lay katun yax ulci obispo
+Fray Fran’co to Ral huli tu uacpiztun ychil ahBolon ahau katun lae,”
+which Brinton translates “The ninth ahau--in this katun first came
+the bishop Brother Francisco Toral; he arrived in the sixth year of
+the ninth ahau katun.” It should be “9 Ahau--in this katun--in Tun 6
+of Katun 9 Ahau.” This is the only place in the Maya where the words
+“ahau katun” appear together. But the context makes it clear that “ahau
+katun” is not a period of time. The paragraph begins with “9 Ahau,” and
+speaks of it as a katun during which Bishop Toral arrived, and then
+proceeds to say that he arrived in Tun 6 of this “ahBolon ahau katun,”
+which can mean nothing else than the “Katun 9 Ahau.”
+
+In the third Book of Chumayel, paragraphs 5 and 6, Brinton translates
+“Can ahau u katunil” as “The fourth ahau katun” instead of “Katun 4
+Ahau.”
+
+In paragraph 7 “Uaxac ahau u katunil” is translated “The eighth ahau
+katun” instead of “Katun 8 Ahau” (note here that this is the same “8
+Ahau,” when Chichen Itza was deserted for Champoton).
+
+Also “Oxlahun ahau u katunil” is translated “In the thirteenth ahau
+katun” instead of “Katun 13 Ahau.”
+
+Also “Buluc ahau u kaba u katunil” is here translated “it was the
+eleventh ahau katun,” while in paragraph 3 a similar sentence is
+translated “4 Ahau was the name of the katun.”
+
+Thus an ahau katun is not mentioned in the Books of Chilan Balam in
+spite of Brinton’s translation, and neither is it mentioned by Landa,
+in spite of Brasseur de Bourbourg’s insertions. In fact the only
+evidence of it is the assertion of Don Pio Perez. I do not mean to say
+that the period of 6 × 52 years = 312 years may not have had a name,
+nor that “ahau katun” may not be the name of some period, but so far we
+have no trustworthy contemporary evidence of either of these statements.
+
+*** END OF THE PROJECT GUTENBERG EBOOK MAYAN NOMENCLATURE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
